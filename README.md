@@ -11,7 +11,7 @@ date: January 26, 2016
 =========================================================================
 
 ### Instructions
-Obtain the Samsung Galaxy S Smartphone Dataset from UCI and perform the following:
+Obtain the Samsung Galaxy S Smartphone Dataset from UCI and perform the following:  
 1.  Merge all data (test and training) into one data set  
 2.  Label observations and data features  
 3.  Extract data of interest (mean and standard deviation measurements) 
@@ -30,7 +30,7 @@ Human activity recognition data obtained from the UCI Samsung Galaxy S Smartphon
 
 The run_analysis.r code performs the following steps:
 	•	Set up appropriate libraries
-	•	Import and label data
+	•	Import and label data 
 	•	Merge feature names, subject IDs, and activity labels to data for both test and training datasets
 	•	Merge data from test and training datasets
 	•	Extract columns of interest (features containing mean and standard deviation measurements)
