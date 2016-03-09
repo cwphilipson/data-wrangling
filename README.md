@@ -4,10 +4,9 @@
 =========================================================================
 README
 =========================================================================
-Data Wrangling: UCI Smartphone Data for Human Activity Recognition  
-Version 1.0  
-author: Casandra Philipson  
-date: January 26, 2016  
+### Data Wrangling: UCI Smartphone Data for Human Activity Recognition  
+### Version 1.0  
+### author: Casandra Philipson  
 =========================================================================
 
 ### Instructions
